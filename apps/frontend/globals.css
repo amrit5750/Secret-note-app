@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Make the viewport height logic reliable */
+html,
+body {
+  height: 100%;
+}

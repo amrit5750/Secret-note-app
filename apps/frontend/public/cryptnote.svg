@@ -1,0 +1,20 @@
+<!--?xml version="1.0" encoding="UTF-8"?-->
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="Cryptnote">
+  <!-- Document panel -->
+  <rect x="8" y="8" width="48" height="48" rx="8" fill="#f4f1ec" stroke="#1f1f1f" stroke-width="3"></rect>
+  <!-- Folded corner (top-right) -->
+  <path d="M48 8 L56 16 H48 Z" fill="#2a2a2a"></path>
+  <!-- Shield (accent) -->
+  <path d="M32 22
+           c -6 4 -12 4 -12 4
+           v 9
+           c 0 7 5 12 12 15
+           c 7 -3 12 -8 12 -15
+           v -9
+           c 0 0 -6 0 -12 -4
+           Z" fill="#bb3e03" stroke="#1f1f1f" stroke-width="2"></path>
+  <!-- Lock body -->
+  <rect x="27.5" y="31.5" width="9" height="8.5" rx="2" fill="#ffffff" stroke="#1f1f1f" stroke-width="1.6"></rect>
+  <!-- Lock shackle -->
+  <path d="M34 31.5 v-2.2 a2.8 2.8 0 0 0 -5.6 0 v2.2" fill="none" stroke="#1f1f1f" stroke-width="1.8" stroke-linecap="round"></path>
+</svg>
